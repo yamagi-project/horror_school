@@ -24,17 +24,17 @@
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;ゲーム概要(画像)</span></td>
+"><span style="color : #ffffff;">&nbsp;<a href="overview.html" target="right">ゲーム概要(画像)</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;&nbsp;シナリオ(画像)</span></td>
+"><span style="color : #ffffff;">&nbsp;<a href="scenario.html">&nbsp;シナリオ(画像)</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;ダウンロード(画像)</span></td>
+"><span style="color : #ffffff;">&nbsp;<a href="download.html">ダウンロード(画像)</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
