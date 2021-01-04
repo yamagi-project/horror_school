@@ -61,17 +61,17 @@
       <tr>
         <td class="hpb-cnt-tb-cell1"><span style="color : #cccccc;
 	font-size : 80%;
-">&nbsp;よくある質問</span></td>
+"><a href="q_a.html" target="right">&nbsp;よくある質問</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1"><span style="color : #cccccc;
 	font-size : 80%;
-">&nbsp;ギャラリー</span></td>
+"><a href="gallery.html" target="right">&nbsp;ギャラリー</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1"><span style="color : #cccccc;
 	font-size : 80%;
-">&nbsp;更新履歴</span></td>
+">&nbsp;<a href="history.html" target="right">更新履歴</a></span></td>
       </tr>
     </tbody>
   </table>
