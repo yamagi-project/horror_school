@@ -29,17 +29,17 @@
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;<a href="scenario.html">&nbsp;シナリオ(画像)</a></span></td>
+"><span style="color : #ffffff;">&nbsp;<a href="scenario.html" target="right">&nbsp;シナリオ(画像)</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;<a href="download.html">ダウンロード(画像)</a></span></td>
+"><span style="color : #ffffff;">&nbsp;<a href="download.html" target="right">ダウンロード(画像)</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1" style="text-align : center;
 	vertical-align : middle;
-"><span style="color : #ffffff;">&nbsp;お問い合わせ(画像)</span></td>
+"><span style="color : #ffffff;"><a href="contact.html" target="right">&nbsp;お問い合わせ(画像)</a></span></td>
       </tr>
     </tbody>
   </table>
@@ -56,7 +56,7 @@
       <tr>
         <td class="hpb-cnt-tb-cell1"><span style="color : #cccccc;
 	font-size : 80%;
-">&nbsp;利用規約</span></td>
+"><a href="terms.html" target="right">&nbsp;利用規約</a></span></td>
       </tr>
       <tr>
         <td class="hpb-cnt-tb-cell1"><span style="color : #cccccc;

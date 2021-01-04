@@ -6,7 +6,7 @@
 <title></title>
 <style type="text/css">
 <!--
-#HPB_TABLE_1_A_210104141844 th,#HPB_TABLE_1_A_210104141844 td{
+#HPB_TABLE_1_A_210104142912 th,#HPB_TABLE_1_A_210104142912 td{
 	padding-top : 2px; padding-left : 2px; padding-right : 2px; padding-bottom : 2px;
 }
 -->
@@ -16,41 +16,23 @@
 <body style="background-image : url(assets/photo/back/black.png);background-repeat : no-repeat;background-attachment : fixed;background-position : 0% 0%;">
 <table border="0" style="width : 100%;
 	border-spacing : 0px 0px;
-" id="HPB_TABLE_1_A_210104141844" class="hpb-cnt-tb1">
+" id="HPB_TABLE_1_A_210104142912" class="hpb-cnt-tb1">
   <tbody>
     <tr>
-      <td class="hpb-cnt-tb-cell1" style="color : #333333;background-color : black;">&nbsp;<span style="color : #ffffff;">ゲームについて</span></td>
+      <td class="hpb-cnt-tb-cell1" style="color : #333333;background-color : black;">&nbsp;<span style="color : #ffffff;">音楽</span></td>
     </tr>
     <tr>
-      <td class="hpb-cnt-tb-cell1">　<span style="font-size : 120%;">Q.</span><br>
-      　<span style="color : #666666;
-	font-size : 120%;
-">A.</span></td>
+      <td class="hpb-cnt-tb-cell1"><iframe src="https://drive.google.com/embeddedfolderview?id=1h8jNtrthQAouFsB_pNexaMoymQc5l5sc#list" style="width:100%; height:600px; border:0;"></iframe></td>
     </tr>
     <tr>
-      <td class="hpb-cnt-tb-cell1" style="color : #333333;background-color : black;">&nbsp;<span style="color : #ffffff;">動画投稿について</span></td>
+      <td class="hpb-cnt-tb-cell1" style="color : #333333;background-color : black;"><span style="color : #ffffff;">&nbsp;イラスト</span></td>
     </tr>
     <tr>
-      <td class="hpb-cnt-tb-cell1">　<span style="font-size : 120%;">Q.</span><br>
-      　<span style="color : #666666;
-	font-size : 120%;
-">A.</span></td>
-    </tr>
-    <tr>
-      <td class="hpb-cnt-tb-cell1" style="color : #333333;background-color : black;">&nbsp;<span style="color : #ffffff;">二次創作について</span></td>
-    </tr>
-    <tr>
-      <td class="hpb-cnt-tb-cell1">　<span style="font-size : 120%;">Q.</span><br>
-      　<span style="color : #666666;
-	font-size : 120%;
-">A.</span></td>
+      <td class="hpb-cnt-tb-cell1"><iframe src="https://drive.google.com/embeddedfolderview?id=18YQ84knXyVAsflLhqoLbdOAyIVyTC2ej#grid" style="width:100%; height:600px; border:0;"></iframe></td>
     </tr>
   </tbody>
 </table>
 <p><br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
